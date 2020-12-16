@@ -22,3 +22,22 @@ html {
   margin-right: 8px;
   opacity: .9;
 }
+
+/* .legend {
+  padding: 10px;
+  line-height: 18px;
+  color: #555;
+  background-color: #fff;
+  border-radius: 5px;
+ }
+
+ .leaflet-bottom.leaflet-left {
+  width: 90%;
+ }
+
+ .leaflet-control-container .leaflet-timeline-controls {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  margin-bottom: 15px;
+ } */
