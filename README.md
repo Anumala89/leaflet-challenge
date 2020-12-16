@@ -24,7 +24,6 @@ The following is the map with plots of significant earthquakes in the past 30 da
 ![alt text](https://github.com/Anumala89/leaflet-challenge/blob/main/image/earthquake.png?raw=true)
 
 
-link to the webpage : (https://anumala89.github.io/leaflet-challenge/)
 
 
 
